@@ -22,8 +22,11 @@ main{
   margin-top: 10%;
 }
 input{
+	width:40%;
+	height:20%
 	border:none;
 	border-radius:8px;
+	outline:none
 }
 button{
   background-color:#4863F7;

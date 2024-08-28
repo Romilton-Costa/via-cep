@@ -1,4 +1,4 @@
-# Projeto: buscar cep
+# Projeto: Buscar cep
 
 <img src="./badge.PNG"/>
 ## Tecnologias usadas:

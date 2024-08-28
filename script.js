@@ -17,7 +17,7 @@ if(dados.erro){
 }else{
   resultado.innerHTML=`<p>Endereço: ${dados.logradouro}</p>
    <p>Complemento: ${dados.complemento}</p>
-  <p>Bairro:${dados.bairro}</p>
-  <p>Cidade:${dados.localidade} - ${dados.uf}</p>`
+  <p>Bairro:  ${dados.bairro}</p>
+  <p>Cidade:  ${dados.localidade} - ${dados.uf}</p>`
 }
 }
